@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davideandres95, a Network Engineer. I am Currently studying MSc. Electrical Engineering at TUM. And I have experience as a software developer.
 - 👀 I’m interested in telco cloud environments, networking, DPDK, P4 and k8s networking
 - 🌱 I’m currently learning C and Linux networking
-- 💞️ I’m looking to collaborate on open source network related projects
+- 💞️ I’m looking to collaborate on open-source network-related projects
 - 📫 How to reach me davideandres95@gmail.com
 
 <!---
